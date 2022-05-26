@@ -30,15 +30,3 @@ I am currently on my last semester before graduating in Informatics Engineering 
 #### Currently learning
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-[![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomrm&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomrm&theme=gotham&layout=compact&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiagomrm&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-</a>
-<a href="[https://github.com/anuraghazra/convoychat](https://github.com/anuraghazra/github-readme-stats)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagomrm&theme=gotham&layout=compact&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
