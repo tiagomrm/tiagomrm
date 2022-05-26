@@ -1,4 +1,4 @@
-### Hi :wave: I'm Tiago! 
+## Hi :wave: I'm Tiago! 
 
 I am currently on my last semester before graduating in Informatics Engineering 💻 
 
