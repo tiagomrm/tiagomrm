@@ -1,6 +1,6 @@
 # Hi :wave: I'm Tiago! 
 
-I am currently on my last semester before graduating in Informatics Engineering 💻 
+This year I graduated in Informatics Engineering at University of Aveiro 💻 Currently, I am doing an internship at Mercedes-Benz.io as a Frontend Engineer :grinning:
 
 ## Languages and frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
